@@ -1,2 +1,4 @@
-# algo
-Algorithms and Data Structures for Competitive Programming
+## Algorithms and Data Structures for Competitive Programming
+
+### Data structures
++ [ ] Segment tree
